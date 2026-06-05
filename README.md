@@ -1,4 +1,4 @@
-# CobbleSpawnAlert Reforged
+# CobblemonRadiants
 
 Choose your language / Choisissez votre langue
 
@@ -8,14 +8,13 @@ Choose your language / Choisissez votre langue
 ## Quick Links / Liens rapides
 
 - [Issues]()
-- [Changelog Fabric]()
-- [Changelog Neoforge]()
+- [Changelog]()
 - [Discord](https://discord.gg/NsNGDKxrYr)
 
 ## Important
 
-This public repository is used for changelogs, bug reports, feature requests, and compatibility reports.  
-Ce dépôt public est utilisé pour les changelogs, les signalements de bugs, les demandes de fonctionnalités et les problèmes de compatibilité.
+This public repository is used for changelogs, bug reports, feature requests, and compatibility reports for CobblemonRadiants.  
+Ce dépôt public est utilisé pour les changelogs, les signalements de bugs, les demandes de fonctionnalités et les problèmes de compatibilité pour CobblemonRadiants.
 
 This repository does **not** contain the source code.  
 Ce dépôt **ne contient pas** le code source.
