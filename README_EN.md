@@ -1,4 +1,21 @@
+# CobblemonRadiants
 
+Addon Cobblemon ajoutant une variante Radiant aux Pokémon shiny, avec une rareté configurable, des effets visuels dédiés et une intégration optionnelle des alertes.
+
+## Overview
+
+CobblemonRadiants est un addon utilitaire conçu pour ajouter une variante spéciale Radiant aux Pokémon shiny, avec une chance d’apparition configurable, une identité visuelle dédiée, un comportement d’alerte optionnel et une intégration pensée pour la compatibilité avec d’autres outils comme CSAR.
+
+## Features
+
+- Variante Radiant pour les Pokémon shiny
+- Chance Radiant configurable
+- Effets visuels dédiés pour les Pokémon Radiant
+- Alertes Radiant intégrées en option
+- Indicateurs UI pour les Pokémon Radiant
+- Compatibilité optionnelle avec CSAR
+- Support de Minecraft `1.21.1`
+- Développement ciblant `Fabric`
 
 ## Public Repository Purpose
 
