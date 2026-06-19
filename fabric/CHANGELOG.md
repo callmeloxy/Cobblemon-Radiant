@@ -1,5 +1,24 @@
 # Changelog
 
+## 1.0.1
+
+### Summary
+
+This update improves the visual rendering of Radiant particles with a cleaner star texture and no unwanted halo.
+
+### Improved
+
+- Improved the Radiant particle texture with a cleaner redesign
+- Improved Radiant stars with a cleaner transparent background
+- Improved particle rendering by removing the unwanted visual halo around the stars
+- Improved in-game readability with sharper and cleaner particle visuals
+- Kept the purple Radiant style while making the final rendering cleaner
+
+### Notes
+
+- This update is mainly a visual polish release
+- No gameplay changes were made
+
 ## 1.0.0
 
 ### Summary
