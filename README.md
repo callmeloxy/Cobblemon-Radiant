@@ -9,7 +9,7 @@ Choose your language / Choisissez votre langue
 
 - [Issues](https://github.com/callmeloxy/Cobblemon-Radiant/issues)
 - [Changelog Fabric](https://github.com/callmeloxy/Cobblemon-Radiant/blob/main/fabric/CHANGELOG.md)
-- [Changelog Neoforge] WIP
+- [Changelog Neoforge](https://github.com/callmeloxy/Cobblemon-Radiant/blob/main/neoforge/CHANGELOG.md) WIP
 - [Discord](https://discord.gg/NsNGDKxrYr)
 
 ## Important
